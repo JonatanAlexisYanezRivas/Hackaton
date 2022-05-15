@@ -88,4 +88,19 @@ Se realizo una página web responsive con las especies marinas en peligo de exti
 
 ### Nuestra aplicación
 
+<h3>Vista PC</h3>
+
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc1.png">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc2.png">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc3.png">
+
+<h3>Vista Móvil</h3>
+
+<p float="let">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel1.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel2.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel3.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel4.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel5.jpeg" width="32%">
+</p>
 
