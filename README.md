@@ -59,4 +59,6 @@ Se realiza una página web que muestra las especies marinas en peligro de extinc
 
 ### Diagrama UML
 
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/UML.jpeg">
+
 
