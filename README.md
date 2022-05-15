@@ -41,4 +41,5 @@ Se realiza una página web que muestra las especies marinas en peligro de extinc
   </li>
 </ul>
 ### Diseño UI/UX
+
 ## ![Público objetivo](https://github.com/JonatanAlexisYanezRivas/Frontend-mision--01--intro/blob/main/público%20objetivo.png)
