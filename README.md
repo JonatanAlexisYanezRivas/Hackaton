@@ -40,6 +40,23 @@ Se realiza una página web que muestra las especies marinas en peligro de extinc
     Las ejecuciones de la página web deben ser rápidas y fluidas. 
   </li>
 </ul>
+
 ### Diseño UI/UX
 
-## ![Público objetivo](https://github.com/JonatanAlexisYanezRivas/Frontend-mision--01--intro/blob/main/público%20objetivo.png)
+<p align="center">
+  <h3>Diseño UI</h3>
+  
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui1.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui2.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui3.png" width="50%" >
+  
+  <h3>Diseño Ux</h3>
+  
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux1.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux2.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux3.png" width="50%" >
+</p>
+
+### Diagrama UML
+
+
