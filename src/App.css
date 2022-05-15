@@ -1,0 +1,368 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;                                 
+}
+
+.logoNav{
+  width: 5rem;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.containerText{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  margin-left: 10rem;
+  margin-top: 5rem;
+                                                
+}
+
+.Title{
+  padding-top: 0.8rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  font-family: 'Minecraft', sans-serif;
+
+  
+}
+
+.TextHome{
+  font-size: 1.5rem;
+}
+
+.verMas{
+  z-index: 1;
+}
+
+.SectionHome{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  padding: 100px;
+}
+
+.imagesHome{
+  z-index:-1;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Gaviota{
+  width: 500px;
+  height: 233px;
+}
+
+.Sol{
+  display: flex;
+  width: 250px;
+  height: 250px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/*Cards*/
+.cardEspecie{
+  float: left;
+  height: 37rem;
+  margin:0.2rem;
+}
+
+
+
+.searchForm{
+  width: 50%;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.titleEspecies{
+  text-align: center;
+  padding: 1rem;
+ 
+
+  color: #151515;
+
+  /* -webkit-text-stroke: 1px black; */
+  
+  font-size: 4rem;
+  font-weight: 600;
+  
+  
+
+  font-family: 'Minecraft', sans-serif;
+  
+}
+
+.btnSearch{
+  color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0);
+}
+
+ .containerListado{
+padding-right: 1rem; 
+padding-left: 3rem;
+} 
+/* 
+.containerListado {
+  
+  background-image: linear-gradient(to left, #aae7ff, #7ed3f5, #4dc4f3, #20c0ff, #00aff5, #048ec5, #006188, #003c53,#006188,#048ec5,#00aff5,#20c0ff,#4dc4f3,#7ed3f5);    
+  width: 100%;
+  padding: 1rem;
+  animation: color 10s linear infinite;
+  background-size: 500%;    
+}
+
+@keyframes color {
+  from {
+      background-position: 0% 50%;
+  }
+
+  to {
+      background-position: 100% 50%;
+  }
+} */
+
+.containerAbout{
+  padding: 8rem;
+  padding-top: 3rem;
+}
+
+.titleAbout{
+  text-align: center;
+  color: black;
+  /* -webkit-text-stroke: 1px black; */
+  
+  font-size: 3rem;
+  font-weight: 600;
+  
+  
+
+  font-family: 'Minecraft', sans-serif;
+
+}
+
+.textAbout{
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.cardAbout{
+  height: 31rem;
+  float: left;
+  margin-left:10rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  /* va para media screem */
+}
+
+.containerListado{
+  /* background: #0099ff;
+  background: linear-gradient(0deg, #0099ff 0%, #ffd700 100%);  */
+  background-image: url(img/Minecraft-Water.jpg);
+}
+
+.ajolote{
+  text-align: center;
+}
+.logoEspecies{
+  width: 10rem;
+  border-radius: 50%;
+  margin: auto;
+  background-color: black;
+}
+
+
+
+@keyframes Cambio {
+  0%{background-position:48% 0%}
+  50%{background-position:53% 100%}
+  100%{background-position:48% 0%}
+}
+
+.colCard{
+  margin-left: 40%;
+}
+
+
+.foot{
+  float: right;
+  background: #111;
+  height: auto;
+  padding-top: 1rem;
+  width: 100%;
+  color: white;
+}
+.Contenido{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.h3{
+  font-size: 3rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  line-height: 3rem;
+  font-family: 'Minecraft', sans-serif;
+
+}
+.textFoot{
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+  color: #cacdd2;
+}
+.redes{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 0 3rem 0;
+}
+.listFoot{
+  margin: 0 10px;
+}
+.aFoot{
+  text-decoration: none;
+  
+ 
+}
+.Regreso{
+  background: #000;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+.a-regreso{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+.Cona{
+  text-decoration: none;
+  color: #44bae8;
+}
+
+
+
+
+
+@media (max-width:46.875rem) {
+  
+  .Gaviota{
+    width: 320px;
+    height: 153px;
+
+  }
+
+  .Sol{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .containerText{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-left: 0rem;
+    margin-top: 4rem;
+  }
+  
+  .Title{
+    padding-top: 0.8rem;
+    margin-bottom: 0rem;
+    text-align: center;
+    
+  }
+  
+  .TextHome{
+    font-size: 1rem;
+  }
+  
+  .verMas{
+    z-index: 1;
+  }
+  
+  .SectionHome{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+    padding-top: 65px;
+  }
+
+  .containerListado{
+    padding-right: 1rem; 
+    padding-left: 2rem;
+    } 
+
+    .searchForm{
+      width: 100%;
+    }
+
+    .titleEspecies{
+      font-size: 2rem;
+      padding: 0;
+      padding-top: 1rem;
+    }
+
+    .colCard{
+      margin-left: 0;
+    }
+
+
+
+    .containerAbout{
+      padding: 0rem;
+    }
+    
+    .titleAbout{
+      text-align: center;
+      color: black;
+      /* -webkit-text-stroke: 1px black; */
+      
+      font-size: 3rem;
+      font-weight: 600;
+    }
+    
+    .textAbout{
+      font-size: 1rem;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    
+    .cardAbout{
+      height: 22rem;
+      
+      margin-left:2rem;
+      margin-bottom: 2rem;
+      justify-content: center;
+      /* va para media screem */
+    }
+
+    .imgAbout{
+      width: 50%;
+      margin-left: 4.8rem;
+      margin-top: 1rem;
+    }
+
+}
