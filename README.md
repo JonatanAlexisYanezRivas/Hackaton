@@ -61,4 +61,31 @@ Se realiza una página web que muestra las especies marinas en peligro de extinc
 
 <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/UML.jpeg">
 
+### ¿Qué realizamos? 
+
+<p>
+Se realizo una página web responsive con las especies marinas en peligo de extinción en México. Creamos una API para poder consultar los datos obtenidos de la página Biodiversidad Mexicana
+</p>
+
+### Lenguajes:
+
+<ul>
+  <p>Se utiliza html y css para realizar la estructura y el diseño de la página</p>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
+
+<ul>
+  <p>Se utiliza JavaScript para las acciones de la página con ayuda de un framework, el framework utilizado fue React js que nos permitío realizar la aplicación en menos tiempo</p>
+  <li>JAVASCRIPT</li>
+  <li>REACT JS</li>
+</ul>
+
+<ul>
+  <p>Se utilizo Python para la extracción de datos con la librería Pandas</p>
+  <li>PYTHON</li>
+</ul>
+
+### Nuestra aplicación
+
 
