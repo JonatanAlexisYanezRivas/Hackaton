@@ -15,7 +15,7 @@ function Footer() {
               <li className='listFoot'><a href="https://www.instagram.com/alexis7n7r/" className="Insta aFoot">
                 <img src={instagram}></img>  
                 </a></li>
-              <li className='listFoot'><a href="#" className="TikTok aFoot">
+              <li className='listFoot'><a href="https://vm.tiktok.com/ZMLc31uw1/?k=1" className="TikTok aFoot">
                   <img src={tiktok}></img>
                   </a></li>
           </ul>
