@@ -21,7 +21,7 @@ function Home() {
     <h1 className='Title'>Bienvenido Marinero</h1>
     <p className='TextHome'>La abundancia en flora y fauna que caracteriza a las zonas del país hacen de México un  país con una gran diversidad de especies</p>
     <p className='TextHome'>
-    Sin embargo actualmente se ha acentuado la  alerta debido a la rápida extinción de algunas especies siendo una de las primeras a nivel mundial. 
+    Sin embargo actualmente se ha acentuado la  alerta debido a la rápida extinción de algunas especies, siendo México un país que extingue una especie tras otra. 
     </p>
     <Button variant="outline-primary" className='btnVermas' href='#about'>Ver mas</Button>
     </div>

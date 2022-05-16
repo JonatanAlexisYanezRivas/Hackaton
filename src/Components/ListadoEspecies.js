@@ -1,5 +1,5 @@
 import Especies from "./Especies";
-import ajoloe from '../img/Ajolote.png'
+import ajoloe from '../img/Ajolote2.png'
 import datosJson from "../DatosJson/datos.json";
 import Form from 'react-bootstrap/Form';
 import { Button, FormControl} from 'react-bootstrap'
