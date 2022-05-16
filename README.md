@@ -107,4 +107,8 @@ Se realizo una página web responsive con las especies marinas en peligo de exti
 
 ## [Video Tiktok](https://vm.tiktok.com/ZMLc31uw1/?k=1)
 
+### Colaboradores:
+
+## [MiguelJiMoral](https://github.com/MiguelJiMoral)
+##[BrandonDanielGarcia](github.com/brandondanielgarcia)
 
