@@ -110,5 +110,5 @@ Se realizo una página web responsive con las especies marinas en peligo de exti
 ### Colaboradores:
 
 ## [MiguelJiMoral](https://github.com/MiguelJiMoral)
-## [BrandonDanielGarcia](github.com/brandondanielgarcia)
+## [BrandonDanielGarcia](https://github.com/BrandonDanielGarcia)
 
