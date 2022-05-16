@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# Hackaton-Especies en peligro de extinción
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Requerimientos
 
-## Available Scripts
+### Problematica
+<p>
+Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una problemática relacionada con los océanos, utilizando, las tecnologías, marcos de trabajo y metodologías revisadas en Launch X.
+</p>
 
-In the project directory, you can run:
+### Solucion
+<p>
+Se realiza una página web que muestra las especies marinas en peligro de extinción en México con la finalidad de que las personas vean la cantidad de especies que actualmente están en riesgo de ser extinguidas. Se tendrá una barra de busqueda para que los usuarios puedan consultar algún tipo de pez y saber si este se encuentra dentro de las especies en peligro de extinción
+</p>
 
-### `npm start`
+### Requerimientos funcionales
+<ul>
+  <li>
+    Se deberá crear un Api con la información de las especies marinas en peligro de extinción. 
+  </li>
+  <li>
+    Se tendrá un menú para una mejor navegación entre páginas. 
+  </li>
+  <li>
+    Se tendrá una barra de búsqueda para mayor rapidez al querer localizar alguna especie en específico. 
+  </li>
+  <li>
+    Se mostrará la información de las especies mediante unas tarjetas con la imagen de la especie y sus características
+  </li>
+</ul>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Requerimientos no funcionales
+<ul>
+  <li>
+    Debe ser intuitiva para los usuarios. 
+  </li>
+  <li>
+    La página web debe ser responsive. 
+  </li>
+  <li>
+    Las ejecuciones de la página web deben ser rápidas y fluidas. 
+  </li>
+</ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Diseño UI/UX
 
-### `npm test`
+<p align="center">
+  <h3>Diseño UI</h3>
+  
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui1.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui2.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ui3.png" width="50%" >
+  
+  <h3>Diseño Ux</h3>
+  
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux1.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux2.png" width="50%" >
+  <img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/ux3.png" width="50%" >
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Diagrama UML
 
-### `npm run build`
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/UML.jpeg">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### ¿Qué realizamos? 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>
+Se realizo una página web responsive con las especies marinas en peligo de extinción en México. Creamos una API para poder consultar los datos obtenidos de la página Biodiversidad Mexicana
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Lenguajes:
 
-### `npm run eject`
+<ul>
+  <p>Se utiliza html y css para realizar la estructura y el diseño de la página</p>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<ul>
+  <p>Se utiliza JavaScript para las acciones de la página con ayuda de un framework, el framework utilizado fue React js que nos permitío realizar la aplicación en menos tiempo</p>
+  <li>JAVASCRIPT</li>
+  <li>REACT JS</li>
+</ul>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<ul>
+  <p>Se utilizo Python para la extracción de datos con la librería Pandas</p>
+  <li>PYTHON</li>
+</ul>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Nuestra aplicación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h3>Vista PC</h3>
 
-## Learn More
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc1.png">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc2.png">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/pc3.png">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h3>Vista Móvil</h3>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p float="let">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel1.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel2.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel3.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel4.jpeg" width="32%">
+<img src="https://github.com/JonatanAlexisYanezRivas/Capturas-hackaton/blob/main/Capturas/cel5.jpeg" width="32%">
+</p>
 
-### Code Splitting
+## [Video Tiktok](https://vm.tiktok.com/ZMLc31uw1/?k=1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
